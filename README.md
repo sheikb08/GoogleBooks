@@ -1,7 +1,7 @@
 # GoogleBooks
 
 ## Table of Contents
-  - [Employee Directory](#GoogleBooks)
+  - [Google Books](#GoogleBooks)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#local-installation)
