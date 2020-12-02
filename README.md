@@ -1,7 +1,7 @@
 # GoogleBooks
 
 ## Table of Contents
-  - [Employee Directory](#employee-directory)
+  - [Employee Directory](#GoogleBooks)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Installation](#local-installation)
@@ -12,12 +12,8 @@
 
 ## Description
 
-For this assignment, I created an employee directory with React. I broke up the application's UI into components, managed component state, and responded to user events.
+For this assignment, I created a new React-based Google Books Search app using React components, working with helper/util functions, and utilizing React lifecycle methods to query and display books based on user searches.
 
-
-## Business Context
-
-An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 ## Tech/Modules Used :
 
@@ -29,6 +25,11 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 ### [React Bootstrap](https://react-bootstrap.github.io/) : 
 * React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built from scratch as a true React component, without unneeded dependencies like jQuery.
 
+### [Mongo DB](https://www.mongodb.com/) : 
+* MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
+
+### [Node JS](https://nodejs.org/en/) : 
+* Node. js is primarily used for non-blocking, event-driven servers, due to its single-threaded nature. It's used for traditional web sites and back-end API services, but was designed with real-time, push-based architectures in mind.
 
 ## Local Installation 
 
@@ -36,9 +37,6 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 * Run 'npm install' to install dependencies required for this project.
 * Run 'npm start' to deploy app
 
-
-## Screenshot  
-|![HTML Screenshot](images/screen.JPG) |![HTML Screenshot](images/screen2.JPG)
 
 ## Contributor
 * Brandon Johnson
